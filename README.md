@@ -1,5 +1,7 @@
 # Music Search and Player App
 
+![screenshot](screenshot.png)
+
 ## Running
 
 Install dependencies (`npm install`)
